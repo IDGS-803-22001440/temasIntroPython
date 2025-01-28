@@ -1,0 +1,3 @@
+Hola:Hello
+Gato:Cat
+Pelota:Ball
